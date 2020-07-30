@@ -21,6 +21,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Projeto criado com intuito de demostrar a utilização do picker junto ao unform",
+    "githubUrl": "https://github.com/daviddossantos/picker-unform"
   }
 }
