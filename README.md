@@ -4,7 +4,7 @@
 <p align="center">Projeto criado com objetivo de implementar um picker junto ao Unform, pois até então na documentação do Unform não possui exemplos relacionados.
 </p>
 
-<p align="center">Serviu como base para a <a href="https://github.com/Rocketseat/unform/issues/286">Issue: 286</a></p>
+<p align="center"><a href="https://github.com/Rocketseat/unform/issues/286">Issue: 286</a></p>
 
 
 <p align="center">
@@ -37,7 +37,7 @@
 | ![ios-example-01](.github/ios01.png)  | ![ios-example-02](.github/ios02.png) |
 
 
-🚀 Como executar o projeto
+### 🚀  Como executar o projeto
 
 ### Pré-requisitos
 
@@ -65,8 +65,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Expo](https://expo.io/)
 - [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
 - [React Native](https://reactnative.dev/)
+- [Yarn](https://yarnpkg.com/)
 - [JavaScript](https://www.javascript.com/)
 
 ### 📝 Licença
